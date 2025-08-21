@@ -27,7 +27,7 @@
     "versions": [
       {
         "version": "1.0.0",
-        "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates_hotfix_1_1_1.enc",
+        "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates_user_update.enc",
         "release_date": "2025-08-15",
         "release_notes": [
           "إصلاح مشكلة المتصفح داخل البرنامج.",
