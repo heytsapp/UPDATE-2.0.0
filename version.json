@@ -1,58 +1,81 @@
 {
   "app": {
-    "versions": [
+    "download_url": "https://heytsapp.com/download/",
+    "updates": [
       {
         "version": "2.0.0",
-        "download_url": "https://heytsapp.com/download/",
-        "release_date": "2025-08-06",
-        "release_notes": [
-          "✨ إصدار البرنامج الأولي."
+        "date": "2025-08-20",
+        "notes": [
+          "✨ إضافة ميزة الحملات اليدوية.",
+          "🎨 تحسين تصميم واجهة الإحصائيات.",
+          "🐞 إصلاح مشكلة في إرسال القوائم التفاعلية."
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "date": "2025-08-06",
+        "notes": [
+          "🎉 الإصدار الأولي للبرنامج."
         ]
       }
     ]
   },
   "templates": {
-    "versions": [
+    "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/main/templates.js.enc",
+    "updates": [
       {
         "version": "2.0.0",
-        "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/templates.js.enc",
-        "release_date": "2025-08-18",
-        "release_notes": [
-          "تحسين طريقة التعرف على الرسائل الجديدة وغير المقروءة."
+        "date": "2025-08-18",
+        "notes": [
+          "⚡️ تحسين طريقة التعرف على الرسائل الجديدة وغير المقروءة.",
+          "🔧 إضافة دالة جديدة لجلب التسميات من واتساب للأعمال."
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "date": "2025-08-06",
+        "notes": [
+          "الإصدار الأولي لمكتبة الواجهة البرمجية (WAPI)."
         ]
       }
     ]
   },
   "main_templates": {
-    "versions": [
+    "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/main/main_templates_user_update.enc",
+    "updates": [
       {
-        "version": "1.0.0",
-        "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates_user_update.enc",
-        "release_date": "2025-08-15",
-        "release_notes": [
-          "إصلاح مشكلة المتصفح داخل البرنامج.",
-          "تحسينات طفيفة في الأداء."
+        "version": "2.0.0",
+        "date": "2025-08-18",
+        "notes": [
+          "🐞 إصلاح خلل يؤدي أحيانًا لعدم الرد على بعض الرسائل.",
+          "🖥️ إصلاح مشكلة المتصفح داخل البرنامج.",
+          "📎 إصلاح مشكلة فشل إرسال الرسائل عند حذف المرفقات."
         ]
       },
       {
-        "version": "2.0.0",
-        "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates_user_update.enc",
-        "release_date": "2025-08-18",
-        "release_notes": [
-          "إصلاح خلل يؤدي أحيانًا لعدم الرد على بعض الرسائل.",
-          "إصلاح مشكلة فشل إرسال الرسائل عند حذف المرفقات من مجلد النظام."
+        "version": "1.0.0",
+        "date": "2025-08-15",
+        "notes": [
+          "➕ إضافة دعم عرض التقارير المتقدمة."
         ]
       }
     ]
   },
   "hotfix": {
-    "versions": [
+    "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/main/main_templates.enc",
+    "updates": [
       {
         "version": "2.0.0",
-        "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates.enc",
-        "release_date": "2025-08-06",
-        "release_notes": [
-          "إصلاحات عاجلة."
+        "date": "2025-08-21",
+        "notes": [
+          "Hotfix: إصلاح عاجل لمشكلة في المصادقة مع واتساب."
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "date": "2025-08-19",
+        "notes": [
+          "Hotfix: إصلاح مشكلة في تسجيل الدخول لبعض المستخدمين."
         ]
       }
     ]
