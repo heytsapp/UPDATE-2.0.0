@@ -1,35 +1,60 @@
 {
   "app": {
-    "latest_version": "1.0.0",
-    "download_url": "https://heytsapp.com/download/",
-    "release_date": "2025-08-06",
-    "release_notes": [
-      "✨ إضافة ميزات جديدة.",
-      "🐞 إصلاح مشكلة إرسال المرفقات.",
-      "⚡ تحسين سرعة استجابة الواجهة."
+    "versions": [
+      {
+        "version": "1.0.0",
+        "download_url": "https://heytsapp.com/download/",
+        "release_date": "2025-08-06",
+        "release_notes": [
+          "✨ إصدار البرنامج الأولي."
+        ]
+      }
     ]
   },
   "templates": {
-    "version": "1.0.1",
-    "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/templates.js.enc",
-    "release_date": "2025-08-18",
-    "release_notes": [
-      "تحسين طريقة التعرف على الرسائل الجديدة وغير المقروءة"
+    "versions": [
+      {
+        "version": "1.0.1",
+        "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/templates.js.enc",
+        "release_date": "2025-08-18",
+        "release_notes": [
+          "تحسين طريقة التعرف على الرسائل الجديدة وغير المقروءة."
+        ]
+      }
     ]
   },
   "main_templates": {
-    "version": "1.1.2",
-    "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates_user_update.enc",
-    "release_date": "2025-08-18",
-    "release_notes": [
-      "إصلاح خلل يؤدي أحيانًا لعدم الرد على بعض الرسائل",
-      "إصلاح مشكلة المتصفح داخل البرنامج",
-      "إصلاح مشكل فشل ارسال الرسائل عند حذف المرفقات من مجلد النظام"
+    "versions": [
+      {
+        "version": "1.1.1",
+        "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates_hotfix_1_1_1.enc",
+        "release_date": "2025-08-15",
+        "release_notes": [
+          "إصلاح مشكلة المتصفح داخل البرنامج.",
+          "تحسينات طفيفة في الأداء."
+        ]
+      },
+      {
+        "version": "1.1.2",
+        "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates_user_update.enc",
+        "release_date": "2025-08-18",
+        "release_notes": [
+          "إصلاح خلل يؤدي أحيانًا لعدم الرد على بعض الرسائل.",
+          "إصلاح مشكلة فشل إرسال الرسائل عند حذف المرفقات من مجلد النظام."
+        ]
+      }
     ]
   },
   "hotfix": {
-    "version": "1.1.2",
-    "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates.enc",
-    "release_date": "2025-08-06"
+    "versions": [
+      {
+        "version": "1.1.2",
+        "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates.enc",
+        "release_date": "2025-08-06",
+        "release_notes": [
+          "إصلاحات عاجلة."
+        ]
+      }
+    ]
   }
 }
