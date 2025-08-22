@@ -21,7 +21,7 @@
     ]
   },
   "templates": {
-    "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/main/templates.js.enc",
+    "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/templates.js.enc",
     "updates": [
       {
         "version": "2.0.0",
@@ -41,7 +41,7 @@
     ]
   },
   "main_templates": {
-    "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/main/main_templates_user_update.enc",
+    "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/main_templates_user_update.enc",
     "updates": [
       {
         "version": "2.0.0",
@@ -62,7 +62,7 @@
     ]
   },
   "hotfix": {
-    "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/main/main_templates.enc",
+    "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/main_templates.enc",
     "updates": [
       {
         "version": "2.0.0",
