@@ -24,6 +24,13 @@
     "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/templates.js.enc",
     "updates": [
       {
+        "version": "2.0.5",
+        "date": "2025-11-16",
+        "notes": [
+          "تحسين واستقرار"
+        ]
+      },
+      {
         "version": "2.0.4",
         "date": "2025-10-16",
         "notes": [
