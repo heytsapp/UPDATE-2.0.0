@@ -24,6 +24,13 @@
     "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/templates.js.enc",
     "updates": [
       {
+        "version": "2.0.6",
+        "date": "2025-11-25",
+        "notes": [
+          "إصلاح توقف استقبال الرسائل الجديدة وتحسين الاستقرار. تنبيه: هذا حل مؤقت وقد يؤثر على تعامل البرنامج مع رسائل المجموعات إلى حين صدور تحديث رسمي نهائي."
+        ]
+      },
+      {
         "version": "2.0.5",
         "date": "2025-11-16",
         "notes": [
