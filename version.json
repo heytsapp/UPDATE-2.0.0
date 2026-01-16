@@ -24,6 +24,13 @@
     "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/templates.js.enc",
     "updates": [
       {
+        "version": "2.0.9",
+        "date": "2026-01-16",
+        "notes": [
+          "تم إصلاح خلل كان يمنع اضهار الرسالة كمقروئة للطرف الأخر."
+        ]
+      },
+      {
         "version": "2.0.8",
         "date": "2025-11-27",
         "notes": [
