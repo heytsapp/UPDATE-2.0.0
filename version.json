@@ -5,8 +5,17 @@
     "download_url": "https://heytsapp.com/download/",
     "updates": [
       {
+        "version": "2.1.0",
+        "notes": [
+          "إصدار تجريبي للتحقق من تنزيل التحديث وتثبيته."
+        ],
+        "sha256": "",
+        "date": "2026-11-08"
+      },
+      {
         "version": "2.0.1",
-        "notes": []
+        "notes": [],
+        "sha256": ""
       },
       {
         "version": "2.0.0",
@@ -15,14 +24,16 @@
           "✨ إضافة ميزة الحملات اليدوية.",
           "🎨 تحسين تصميم واجهة الإحصائيات.",
           "🐞 إصلاح مشكلة في إرسال القوائم التفاعلية."
-        ]
+        ],
+        "sha256": ""
       },
       {
         "version": "1.0.0",
         "date": "2025-08-06",
         "notes": [
           "🎉 الإصدار الأولي للبرنامج."
-        ]
+        ],
+        "sha256": ""
       }
     ]
   },
@@ -30,24 +41,42 @@
     "host": {
       "updates": [
         {
+          "version": "2.1.0",
+          "notes": [
+            "إصدار تجريبي للتحقق من تنزيل التحديث وتثبيته."
+          ],
+          "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/Heytsapp.exe",
+          "runtime_id": "cp313-win_amd64-1",
+          "sha256": "",
+          "date": "2026-11-08"
+        },
+        {
           "version": "2.0.1",
           "notes": [],
           "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/Heytsapp.exe",
           "runtime_id": "cp313-win_amd64-1",
-          "published": false
+          "sha256": ""
         }
       ]
     },
     "templates": {
       "updates": [
         {
+          "version": "2.1.0",
+          "notes": [
+            "إصدار تجريبي للتحقق من تنزيل التحديث وتثبيته."
+          ],
+          "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/templates.js.enc",
+          "sha256": "",
+          "date": "2026-11-08"
+        },
+        {
           "version": "2.0.10",
           "notes": [
             "اصلاح خلل عدم ارسال الرسائل"
           ],
           "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/templates.js.enc",
-          "sha256": "a855ce5844385a9561b71cc896d1af1445902b9c9eed09582937b3995ecede09",
-          "size": 1003704,
+          "sha256": "",
           "date": "2026-02-27"
         },
         {
@@ -55,61 +84,70 @@
           "date": "2026-01-16",
           "notes": [
             "تم إصلاح خلل كان يمنع اضهار الرسالة كمقروئة للطرف الأخر."
-          ]
+          ],
+          "sha256": ""
         },
         {
           "version": "2.0.8",
           "date": "2025-11-27",
           "notes": [
             "إصلاح وتحسين للستقرار."
-          ]
+          ],
+          "sha256": ""
         },
         {
           "version": "2.0.7",
           "date": "2025-11-25",
           "notes": [
             "إصلاح توقف استقبال الرسائل الجديدة وتحسين الاستقرار."
-          ]
+          ],
+          "sha256": ""
         },
         {
           "version": "2.0.6",
           "date": "2025-11-25",
           "notes": [
             "إصلاح توقف استقبال الرسائل الجديدة وتحسين الاستقرار. تنبيه: هذا حل مؤقت وقد يؤثر على تعامل البرنامج مع رسائل المجموعات إلى حين صدور تحديث رسمي نهائي."
-          ]
+          ],
+          "sha256": ""
         },
         {
           "version": "2.0.5",
           "date": "2025-11-16",
           "notes": [
             "تحسين واستقرار"
-          ]
+          ],
+          "sha256": ""
         },
         {
           "version": "2.0.4",
           "date": "2025-10-16",
           "notes": [
             "إصلاح مشكل فشل ارسال الرسائل"
-          ]
+          ],
+          "sha256": ""
         },
         {
           "version": "2.0.3",
           "date": "2025-09-12",
           "notes": [
             "تحسينات في ارسال الرسائل الترحيبية"
-          ]
+          ],
+          "sha256": ""
         },
         {
           "version": "2.0.2",
           "date": "2025-09-02",
           "notes": [
             "اصلاح خطأ ارسال الرسائل، او بعض الرسائل تظهر انها تم ارسالها بنجاح لكن لا ترسل فعليا."
-          ]
+          ],
+          "sha256": ""
         },
         {
           "version": "2.0.1",
           "date": "2025-09-02",
-          "notes": []
+          "notes": [],
+          "sha256": ""
         },
         {
           "version": "2.0.0",
@@ -117,97 +155,1175 @@
           "notes": [
             "⚡️ تحسين طريقة التعرف على الرسائل الجديدة وغير المقروءة.",
             "🔧 إضافة دالة جديدة لجلب التسميات من واتساب للأعمال."
-          ]
+          ],
+          "sha256": ""
         },
         {
           "version": "1.0.0",
           "date": "2025-08-06",
           "notes": [
             "الإصدار الأولي لمكتبة الواجهة البرمجية (WAPI)."
-          ]
+          ],
+          "sha256": ""
         }
       ]
     },
     "gui": {
       "updates": [
         {
+          "version": "2.1.0",
+          "notes": [
+            "إصدار تجريبي للتحقق من تنزيل التحديث وتثبيته."
+          ],
+          "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/modules/gui.cp313-win_amd64.pyd",
+          "runtime_id": "cp313-win_amd64-1",
+          "sha256": "",
+          "date": "2026-11-08"
+        },
+        {
           "version": "2.0.1",
           "notes": [],
           "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/modules/gui.cp313-win_amd64.pyd",
           "runtime_id": "cp313-win_amd64-1",
-          "published": false
+          "sha256": ""
         }
       ]
     },
     "core": {
       "updates": [
         {
+          "version": "2.1.0",
+          "notes": [
+            "إصدار تجريبي للتحقق من تنزيل التحديث وتثبيته."
+          ],
+          "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/modules/core.cp313-win_amd64.pyd",
+          "runtime_id": "cp313-win_amd64-1",
+          "sha256": "",
+          "date": "2026-11-08"
+        },
+        {
           "version": "2.0.0",
           "notes": [],
           "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/modules/core.cp313-win_amd64.pyd",
           "runtime_id": "cp313-win_amd64-1",
-          "published": false
+          "sha256": ""
         }
       ]
     },
     "database": {
       "updates": [
         {
+          "version": "2.1.0",
+          "notes": [
+            "إصدار تجريبي للتحقق من تنزيل التحديث وتثبيته."
+          ],
+          "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/modules/database.cp313-win_amd64.pyd",
+          "runtime_id": "cp313-win_amd64-1",
+          "sha256": "",
+          "date": "2026-11-08"
+        },
+        {
           "version": "2.0.0",
           "notes": [],
           "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/modules/database.cp313-win_amd64.pyd",
           "runtime_id": "cp313-win_amd64-1",
-          "published": false
+          "sha256": ""
         }
       ]
     },
     "integrations": {
       "updates": [
         {
+          "version": "2.1.0",
+          "notes": [
+            "إصدار تجريبي للتحقق من تنزيل التحديث وتثبيته."
+          ],
+          "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/modules/integrations.cp313-win_amd64.pyd",
+          "runtime_id": "cp313-win_amd64-1",
+          "sha256": "",
+          "date": "2026-11-08"
+        },
+        {
           "version": "2.0.0",
           "notes": [],
           "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/modules/integrations.cp313-win_amd64.pyd",
           "runtime_id": "cp313-win_amd64-1",
-          "published": false
+          "sha256": ""
         }
       ]
     },
     "security": {
       "updates": [
         {
+          "version": "2.1.0",
+          "notes": [
+            "إصدار تجريبي للتحقق من تنزيل التحديث وتثبيته."
+          ],
+          "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/modules/security.cp313-win_amd64.pyd",
+          "runtime_id": "cp313-win_amd64-1",
+          "sha256": "",
+          "date": "2026-11-08"
+        },
+        {
           "version": "2.0.0",
           "notes": [],
           "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/modules/security.cp313-win_amd64.pyd",
           "runtime_id": "cp313-win_amd64-1",
-          "published": false
+          "sha256": ""
         }
       ]
     },
     "utils": {
       "updates": [
         {
+          "version": "2.1.0",
+          "notes": [
+            "إصدار تجريبي للتحقق من تنزيل التحديث وتثبيته."
+          ],
+          "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/modules/utils.cp313-win_amd64.pyd",
+          "runtime_id": "cp313-win_amd64-1",
+          "sha256": "",
+          "date": "2026-11-08"
+        },
+        {
           "version": "2.0.0",
           "notes": [],
           "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/modules/utils.cp313-win_amd64.pyd",
           "runtime_id": "cp313-win_amd64-1",
-          "published": false
+          "sha256": ""
         }
       ]
     },
     "config": {
       "updates": [
         {
+          "version": "2.1.0",
+          "notes": [
+            "إصدار تجريبي للتحقق من تنزيل التحديث وتثبيته."
+          ],
+          "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/modules/config.cp313-win_amd64.pyd",
+          "runtime_id": "cp313-win_amd64-1",
+          "sha256": "",
+          "date": "2026-11-08"
+        },
+        {
           "version": "2.0.0",
           "notes": [],
           "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/modules/config.cp313-win_amd64.pyd",
           "runtime_id": "cp313-win_amd64-1",
-          "published": false
+          "sha256": ""
         }
       ]
     }
   },
   "resources": {
     "updates": [
+      {
+        "version": "2.1.0",
+        "notes": [
+          "إصدار تجريبي للتحقق من تنزيل التحديث وتثبيته."
+        ],
+        "files": [
+          {
+            "path": "resources/assistant_chat.html",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/assistant_chat.html",
+            "sha256": "a97005b8ef4ede93593fccfb10f599ba289a01f503dc4c077765ba1c55025ff8",
+            "size": 55710
+          },
+          {
+            "path": "resources/assistant_knowledge/ai_settings_guide.json",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/assistant_knowledge/ai_settings_guide.json",
+            "sha256": "86458c6d7006bfbad97fe511783bfa234942b3b3e76c6fade0a1742308fed074",
+            "size": 1838
+          },
+          {
+            "path": "resources/assistant_knowledge/app_logic_rules.json",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/assistant_knowledge/app_logic_rules.json",
+            "sha256": "4fc3fe7af964727345199e8727fe5e0f5be806aec3f288066e7b17d3e27a61f9",
+            "size": 6623
+          },
+          {
+            "path": "resources/assistant_knowledge/follow_up_guide.json",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/assistant_knowledge/follow_up_guide.json",
+            "sha256": "eb3e70ed300c222b09316b1f5390cdd7cdfdb27e119e59a6ab3c4e9e7e5d578a",
+            "size": 1985
+          },
+          {
+            "path": "resources/assistant_knowledge/ui_structure_map.json",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/assistant_knowledge/ui_structure_map.json",
+            "sha256": "e7ce346053f5a154aa8bc21eb75f25782ca5e2d5dac002393841bace20ad0143",
+            "size": 3339
+          },
+          {
+            "path": "resources/assistant_knowledge/video_tutorials.json",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/assistant_knowledge/video_tutorials.json",
+            "sha256": "878dfbe1b24eab6a780b5961d1a8507f5cbc2858354bf9ed2311ddc2e9f35705",
+            "size": 3968
+          },
+          {
+            "path": "resources/chart_template.html",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/chart_template.html",
+            "sha256": "d7f8d9e68439db1338654a6d72034a94de3253d43b2c799c536f38c4d848956b",
+            "size": 70411
+          },
+          {
+            "path": "resources/country.json",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/country.json",
+            "sha256": "360673ff76b96a5351aab0a53389508c59e916c565999d6dc579b271d3a903d8",
+            "size": 16153
+          },
+          {
+            "path": "resources/dark_chart_template.html",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/dark_chart_template.html",
+            "sha256": "855081c29933f073d32dc4a1ae0248d1a3f1b1947dad217e101c150eb8b25d46",
+            "size": 164913
+          },
+          {
+            "path": "resources/dark_style.qss",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/dark_style.qss",
+            "sha256": "1bda4cbb2dd6848a08db99e0431173c5badefb8a0ad5162a982940ec174d6bc6",
+            "size": 46832
+          },
+          {
+            "path": "resources/language/ar.json",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/language/ar.json",
+            "sha256": "2fc42142667d84b25c9e4a567aba61fcdce182e566d5f1baf7c03690f1189a5f",
+            "size": 289382
+          },
+          {
+            "path": "resources/language/en.json",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/language/en.json",
+            "sha256": "13390f3383fec6b7889fb6c877d447e95470ce46565bc8877fa95bfd77ccc233",
+            "size": 233356
+          },
+          {
+            "path": "resources/language/translation_map.json",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/language/translation_map.json",
+            "sha256": "c5fdf332868ed7f3fde285341f5a5bc13fe29ccdea2a97cf0f8fbaa768e0e8b0",
+            "size": 333879
+          },
+          {
+            "path": "resources/light_style.qss",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/light_style.qss",
+            "sha256": "1949bd90ee04c21f41cce77693c6724db07f3ffa22b0ebb7eec178ce3694cd35",
+            "size": 46993
+          },
+          {
+            "path": "resources/LOGO/30x30pix.ico",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/30x30pix.ico",
+            "sha256": "2b3903d95a6b9b456bf54256128859029260d0c6942c3e0c3dca3e83b72424ff",
+            "size": 182166
+          },
+          {
+            "path": "resources/LOGO/30x30pix.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/30x30pix.png",
+            "sha256": "335e263d39116b8f88432ec48942fce60da127562f8dfd731c53f2f1628348a4",
+            "size": 19888
+          },
+          {
+            "path": "resources/LOGO/boton.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/boton.png",
+            "sha256": "e43d1d5b746b6461b6777ccd9928e75e7efbb6370bc4ec70cc61c9ddcfc98f15",
+            "size": 17556
+          },
+          {
+            "path": "resources/LOGO/Cairo-Black.ttf",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/Cairo-Black.ttf",
+            "sha256": "a12c5642cc69f452821efbf682d83fcece1a361ae64c1568b2604869c19b23f2",
+            "size": 175492
+          },
+          {
+            "path": "resources/LOGO/Cairo-Bold.ttf",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/Cairo-Bold.ttf",
+            "sha256": "52fef82639d23ad52d0e0a9e96e277594fc50c182feeed7e474878e3eae85fb3",
+            "size": 170996
+          },
+          {
+            "path": "resources/LOGO/heytsapp_long.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/heytsapp_long.png",
+            "sha256": "d41d77a83a254b5a5421ece0216c975854376d002da033d15641088cd022592b",
+            "size": 5961
+          },
+          {
+            "path": "resources/LOGO/icon.ico",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icon.ico",
+            "sha256": "2b3903d95a6b9b456bf54256128859029260d0c6942c3e0c3dca3e83b72424ff",
+            "size": 182166
+          },
+          {
+            "path": "resources/LOGO/icons/Add User V4.gif",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/Add%20User%20V4.gif",
+            "sha256": "e21a5f90464f268b4b982dfd9b14393ced07eec872d61810580ed3f9ef02ab15",
+            "size": 90707
+          },
+          {
+            "path": "resources/LOGO/icons/Add User V4.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/Add%20User%20V4.png",
+            "sha256": "616712bf45a6b26959bb9dc9288f8d0bbbf94e2d6125ffd4101a48ceefff0c53",
+            "size": 4026
+          },
+          {
+            "path": "resources/LOGO/icons/add.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/add.png",
+            "sha256": "2f1403b240630a718436e6016d8f743aa0561094e014816f76c7e2baf17c9269",
+            "size": 9543
+          },
+          {
+            "path": "resources/LOGO/icons/add_attach.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/add_attach.png",
+            "sha256": "72fa5d75353fee191d0936a06aebdbe44a1ce9c31a5850d87e950e1bac94c33f",
+            "size": 22242
+          },
+          {
+            "path": "resources/LOGO/icons/add_list.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/add_list.png",
+            "sha256": "1bcf0d06e4b199109d9e94254cda4bc1f20d9cb342174670b660baf96a11e482",
+            "size": 18306
+          },
+          {
+            "path": "resources/LOGO/icons/add_R_texte.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/add_R_texte.png",
+            "sha256": "2f7fd9cb3da320d0445c7b1f3caea8e17142f938e97b040420ca22d9eb6b8a1f",
+            "size": 6036
+          },
+          {
+            "path": "resources/LOGO/icons/add_text.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/add_text.png",
+            "sha256": "e46427fdf0ca16b5d3e09db26d58e9c6874cb7b6e4dc190b1be53a3775328048",
+            "size": 8235
+          },
+          {
+            "path": "resources/LOGO/icons/ai_message.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/ai_message.png",
+            "sha256": "ebe12e543b98b58be438058a63ac25e9a39cd86a8216df7b3a6a89d8b8c8f2a9",
+            "size": 15022
+          },
+          {
+            "path": "resources/LOGO/icons/ai_setting.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/ai_setting.png",
+            "sha256": "ef49b400ba69efa1af9d56b8f7138329c45ebb7ea1d4d8c3efddecbfa2c3769f",
+            "size": 13229
+          },
+          {
+            "path": "resources/LOGO/icons/ai_test.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/ai_test.png",
+            "sha256": "d980abc4e632917cb7885e28abb3a23ad9f1aea2894b87b47b0193798fb69b07",
+            "size": 12927
+          },
+          {
+            "path": "resources/LOGO/icons/arrow-down-2.svg",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/arrow-down-2.svg",
+            "sha256": "6753d6ba76ac04631c26410978a89bdf41a493988938449db1052b067f34fe7e",
+            "size": 987
+          },
+          {
+            "path": "resources/LOGO/icons/arrow-down-light.svg",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/arrow-down-light.svg",
+            "sha256": "d1099e1518faa03f2dde392092c4ad3d56a577e01e564b6758acf146af1cf166",
+            "size": 992
+          },
+          {
+            "path": "resources/LOGO/icons/arrow-down.svg",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/arrow-down.svg",
+            "sha256": "2aa077b51068ee87096b1fb68b30578b17f6b9f79ca7e0442d4799c495df27ed",
+            "size": 951
+          },
+          {
+            "path": "resources/LOGO/icons/arrow-up-2.svg",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/arrow-up-2.svg",
+            "sha256": "96856a2b6934269c82eb8f161c944c829bccd002704f792b8e21c01b55e919ce",
+            "size": 1637
+          },
+          {
+            "path": "resources/LOGO/icons/arrow-up-light.svg",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/arrow-up-light.svg",
+            "sha256": "191215292d6d0f093c515d4113d9224fe90145f92108908ca93c1e8b1a32c4e3",
+            "size": 1642
+          },
+          {
+            "path": "resources/LOGO/icons/bot.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/bot.png",
+            "sha256": "f07ee40eee333391a654ff8bc58b213f436d4f23146abe6333fbb2f60dd8ddc0",
+            "size": 18402
+          },
+          {
+            "path": "resources/LOGO/icons/bot2_AI_on.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/bot2_AI_on.png",
+            "sha256": "d0bda16755e309cdd4b838fc6a788475f951106f608cd0ffafbc315db2423200",
+            "size": 160592
+          },
+          {
+            "path": "resources/LOGO/icons/bot2_of.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/bot2_of.png",
+            "sha256": "df3934283de4d88b24194d8592781d7e44b09caf0fa227dfb39e20fb0255ce68",
+            "size": 122921
+          },
+          {
+            "path": "resources/LOGO/icons/bot2_on.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/bot2_on.png",
+            "sha256": "70f0542641454d11f267f9e0618c9408cbffd7687696e2f58c8cad28b74c6a8a",
+            "size": 196722
+          },
+          {
+            "path": "resources/LOGO/icons/bot_of - Copie.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/bot_of%20-%20Copie.png",
+            "sha256": "9771569d34d59ab8e472d713f4b8b5905fd9352572d9d704bae0836f30aa0cc1",
+            "size": 166096
+          },
+          {
+            "path": "resources/LOGO/icons/bot_of.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/bot_of.png",
+            "sha256": "c9bfab9d38ca3daabbf186705a4c3aa5aa934c26f81a8eb8c274e15662ce16a5",
+            "size": 109227
+          },
+          {
+            "path": "resources/LOGO/icons/bot_on - Copie.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/bot_on%20-%20Copie.png",
+            "sha256": "4539720fe939fd2fee894d7835e4719346cd9b21be7395d275b1268dd8e23762",
+            "size": 162244
+          },
+          {
+            "path": "resources/LOGO/icons/bot_on.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/bot_on.png",
+            "sha256": "509bca349c7dd58b600b72d84ae798050638c7a20f02e56284c1ff75e3e0ad7c",
+            "size": 114472
+          },
+          {
+            "path": "resources/LOGO/icons/botAI_on.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/botAI_on.png",
+            "sha256": "1478c621394d63d121f4d114c8774d9030a96e914d35a34ad1a1401f243a1aab",
+            "size": 170000
+          },
+          {
+            "path": "resources/LOGO/icons/calendar.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/calendar.png",
+            "sha256": "2c6fc60d8bf0b12f2d13cde2a596b28d3dc3e8a5e267ba1054a922c57583c5b0",
+            "size": 12997
+          },
+          {
+            "path": "resources/LOGO/icons/check - Copie.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/check%20-%20Copie.png",
+            "sha256": "688cb6813c767660f29a28a3dec60dd85af85d00a3dc402155fdedf5de01a2cc",
+            "size": 27223
+          },
+          {
+            "path": "resources/LOGO/icons/check.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/check.png",
+            "sha256": "709330c97346f7dec09e44eb06508d1eec79f959e355be83ab0552e5aae2fce6",
+            "size": 13478
+          },
+          {
+            "path": "resources/LOGO/icons/delay.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/delay.png",
+            "sha256": "2195f4205839a16bae378a77d3e0a350bfb8513f3bbfee8b8b0517b4487e4c98",
+            "size": 11941
+          },
+          {
+            "path": "resources/LOGO/icons/delete.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/delete.png",
+            "sha256": "9b6731e0950097c0bdfa7b3dd624a67c3e2bac25b5fa3abb878110ed61508571",
+            "size": 10606
+          },
+          {
+            "path": "resources/LOGO/icons/delete_R_texte.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/delete_R_texte.png",
+            "sha256": "c3bf6677a8dc7ce7a411a5d2ba4f3ea02d0071c54f4c078e1548a7cc5dd2dceb",
+            "size": 12820
+          },
+          {
+            "path": "resources/LOGO/icons/download.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/download.png",
+            "sha256": "ef64e0b1ea99bf5efd85d2e2e593019d8b8129a4056910cb12bd36f1ebd4d5f5",
+            "size": 6930
+          },
+          {
+            "path": "resources/LOGO/icons/edit_R_texte.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/edit_R_texte.png",
+            "sha256": "90c607531dddca9daf048bcccd25696b09cf7a6c0a3b6e6bbb23f97cccdb2d2e",
+            "size": 8921
+          },
+          {
+            "path": "resources/LOGO/icons/exception.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/exception.png",
+            "sha256": "fa2d6f0944a24cd2bd3ab62b5431d43e37ce927919d54984a5447af984300f69",
+            "size": 16632
+          },
+          {
+            "path": "resources/LOGO/icons/export_1.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/export_1.png",
+            "sha256": "b719433edc15c0b60536b7d5a057bb972cccedf1a27e6cc3cde067db29e647c8",
+            "size": 6897
+          },
+          {
+            "path": "resources/LOGO/icons/export_2.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/export_2.png",
+            "sha256": "251c395a75d61d89468c0debc432a2e34130095ee957f8fdc706d2ab0623f1e9",
+            "size": 7083
+          },
+          {
+            "path": "resources/LOGO/icons/export_all.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/export_all.png",
+            "sha256": "94acae7e82fd7b12053377497f48f4dd95828868fa2d7da52c9051331f2d1f64",
+            "size": 11001
+          },
+          {
+            "path": "resources/LOGO/icons/eye.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/eye.png",
+            "sha256": "ac0ff638d684c78891b7acbe50d702c998517303c5ba2681d49b621c7a0c902b",
+            "size": 15382
+          },
+          {
+            "path": "resources/LOGO/icons/history.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/history.png",
+            "sha256": "ff6f1cec56a74eef5e7cb1ccea0fd7d387699ff13a552fb3137835c71d087baf",
+            "size": 12400
+          },
+          {
+            "path": "resources/LOGO/icons/home - Copie.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/home%20-%20Copie.png",
+            "sha256": "2925fda65b53b67bb16acf170647abdaf951d1e69da94b1a00b1da44488885fb",
+            "size": 12303
+          },
+          {
+            "path": "resources/LOGO/icons/home.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/home.png",
+            "sha256": "954dc92da2767fd363be5d9480dbe93c351c72642ad1be8bf98a5756301449ed",
+            "size": 9866
+          },
+          {
+            "path": "resources/LOGO/icons/label.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/label.png",
+            "sha256": "92e5c90acc874f8e3fb08809ee9e26b9618c915bcfc439efa03850dea9cada85",
+            "size": 11782
+          },
+          {
+            "path": "resources/LOGO/icons/label2.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/label2.png",
+            "sha256": "b3e35ea672e29a42f99e3b553bbf65df99bd82480e46d3f0e402af3d6c1097a7",
+            "size": 25048
+          },
+          {
+            "path": "resources/LOGO/icons/list.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/list.png",
+            "sha256": "b8c0f7bb00783f2baa2072583ca9f23e6e0eca8878995c0c32a719de5d5fb461",
+            "size": 11998
+          },
+          {
+            "path": "resources/LOGO/icons/media.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/media.png",
+            "sha256": "0a19a047e2fc4c2c57649b5ad71f33b9d9472f1491d4cc635be3491910615bc1",
+            "size": 12261
+          },
+          {
+            "path": "resources/LOGO/icons/message1.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/message1.png",
+            "sha256": "0746fdc9e9bb933e448fb16d04176d05af6cd307b0df262f72a198ce0e86fe5a",
+            "size": 11955
+          },
+          {
+            "path": "resources/LOGO/icons/message2.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/message2.png",
+            "sha256": "7212af7a89d777ffc6b17fd59b72930a2aae8687e2b033eadfcb5d8393d5e4ae",
+            "size": 13574
+          },
+          {
+            "path": "resources/LOGO/icons/messages_report.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/messages_report.png",
+            "sha256": "3733871dea69039af0715a102df14a7695283d7476346c1245fd2750923ab809",
+            "size": 11600
+          },
+          {
+            "path": "resources/LOGO/icons/name.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/name.png",
+            "sha256": "cf1acc95d29e26397bfab44407afc487ef7a63ee1b8c288d3e783128d4079fb1",
+            "size": 12941
+          },
+          {
+            "path": "resources/LOGO/icons/options.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/options.png",
+            "sha256": "27545f926776f544102618ddb251d35ce8205ba5d84bdc267ebd835b711b9af4",
+            "size": 9886
+          },
+          {
+            "path": "resources/LOGO/icons/other.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/other.png",
+            "sha256": "3cdabe78e08887eae3be0f3e48843c0dcc0fc75409c048d7b15567afe386b9d2",
+            "size": 8100
+          },
+          {
+            "path": "resources/LOGO/icons/remote_control - Copie.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/remote_control%20-%20Copie.png",
+            "sha256": "5a5d049410e60d3a8e356f3eaed289d5ab0d1d632ad4b46d0f208ba857718d70",
+            "size": 19029
+          },
+          {
+            "path": "resources/LOGO/icons/remote_control.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/remote_control.png",
+            "sha256": "5a5d049410e60d3a8e356f3eaed289d5ab0d1d632ad4b46d0f208ba857718d70",
+            "size": 19029
+          },
+          {
+            "path": "resources/LOGO/icons/save.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/save.png",
+            "sha256": "9ddb50e23e97618c33046dd14eb4dd96af3533e4ab5ac7ef6543448cab396954",
+            "size": 8122
+          },
+          {
+            "path": "resources/LOGO/icons/send.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/send.png",
+            "sha256": "3e93b73428c978b456ca5dc63ea57617a52fa27c3a390abcd1ec126806543a29",
+            "size": 9772
+          },
+          {
+            "path": "resources/LOGO/icons/seting.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/seting.png",
+            "sha256": "c6bebc239c34a590d449603617f7645fad6158b438172101ef3f1c35ffb85704",
+            "size": 15090
+          },
+          {
+            "path": "resources/LOGO/icons/setting.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/setting.png",
+            "sha256": "501ade704b112a80c44c7ba3a6b2c00766b2528bca9ac5aef0b518d86123db9e",
+            "size": 17311
+          },
+          {
+            "path": "resources/LOGO/icons/setting_light_mode.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/setting_light_mode.png",
+            "sha256": "927fb2a5b0416c94a45a63f3e1a10a98babe031b37933838a50db2a769c49656",
+            "size": 15168
+          },
+          {
+            "path": "resources/LOGO/icons/sheets_track.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/sheets_track.png",
+            "sha256": "462af38e0df9186913e198e5f918661728cef0680184b5c5002f0c68548eb1b4",
+            "size": 7781
+          },
+          {
+            "path": "resources/LOGO/icons/sheets_track2.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/sheets_track2.png",
+            "sha256": "0a3e891099bed0b520022a7f28d92712af770684eec653ecab6adeb0957f74d4",
+            "size": 22722
+          },
+          {
+            "path": "resources/LOGO/icons/sheets_up.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/sheets_up.png",
+            "sha256": "422b1dfd9b848afcd2114d73d9d2b72ab20b5643709216e7bc86331f566f8c00",
+            "size": 6656
+          },
+          {
+            "path": "resources/LOGO/icons/startup.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/startup.png",
+            "sha256": "286e96c365bbe955441dc4d6a10b489ea3eae28495bdaa4d1ae51764eb0cb470",
+            "size": 15953
+          },
+          {
+            "path": "resources/LOGO/icons/texte.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/texte.png",
+            "sha256": "043cde706e7dd93161d643e9a2c464ebcc76c8b3414f3f8a86a39e358bac0d47",
+            "size": 9968
+          },
+          {
+            "path": "resources/LOGO/icons/timer.gif",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/timer.gif",
+            "sha256": "e21a5f90464f268b4b982dfd9b14393ced07eec872d61810580ed3f9ef02ab15",
+            "size": 90707
+          },
+          {
+            "path": "resources/LOGO/icons/timer.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/timer.png",
+            "sha256": "f0a3a1ee5e4af497616a02b14b739b98a42662abf481540dd117d83c3b3738a0",
+            "size": 10093
+          },
+          {
+            "path": "resources/LOGO/icons/tray.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/tray.png",
+            "sha256": "130275f5ee0213783c3927e7eba89c679bbfb55027fb4871845007b0e7bc5fbc",
+            "size": 14437
+          },
+          {
+            "path": "resources/LOGO/icons/update_key.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/update_key.png",
+            "sha256": "b0f9bc8e040aa439869177c0c21be84c35e88dce87f7800a64dd9666457d3ce3",
+            "size": 18085
+          },
+          {
+            "path": "resources/LOGO/icons/User V4.gif",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/User%20V4.gif",
+            "sha256": "4e6419e2ae34a0e17e608d20c4db0c8341e3a69abd05fee58105ed443fb857c0",
+            "size": 54324
+          },
+          {
+            "path": "resources/LOGO/icons/User V4.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/User%20V4.png",
+            "sha256": "933312fd6da537bd7e9fdfe54da777f242eba4841130350cdfcf31d1ecf7c547",
+            "size": 3230
+          },
+          {
+            "path": "resources/LOGO/icons/user.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/user.png",
+            "sha256": "5dba84485c26a0fffe388d5a361ace00d97de8f95be33b6c45c97472b8513555",
+            "size": 6617
+          },
+          {
+            "path": "resources/LOGO/icons/voice.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons/voice.png",
+            "sha256": "39b699c9847d19c9f681e879598fa23b869b293f5f06a2277a69140af8a04e54",
+            "size": 11861
+          },
+          {
+            "path": "resources/LOGO/icons_light/Add User V4.gif",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/Add%20User%20V4.gif",
+            "sha256": "e21a5f90464f268b4b982dfd9b14393ced07eec872d61810580ed3f9ef02ab15",
+            "size": 90707
+          },
+          {
+            "path": "resources/LOGO/icons_light/Add User V4.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/Add%20User%20V4.png",
+            "sha256": "616712bf45a6b26959bb9dc9288f8d0bbbf94e2d6125ffd4101a48ceefff0c53",
+            "size": 4026
+          },
+          {
+            "path": "resources/LOGO/icons_light/add.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/add.png",
+            "sha256": "ea4ac92c6022fab43bace9cb084d7f595f18f5f45d2fcc40a96a3e77d275d27a",
+            "size": 19300
+          },
+          {
+            "path": "resources/LOGO/icons_light/add_attach.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/add_attach.png",
+            "sha256": "9406782d44bb6532ffd0826b30b321fab338739acde4daab18f9550515767306",
+            "size": 54704
+          },
+          {
+            "path": "resources/LOGO/icons_light/add_list.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/add_list.png",
+            "sha256": "c941a1d88b1401224a8fb33d110af7332153f12f3b3b1a7adbf3540894767148",
+            "size": 29192
+          },
+          {
+            "path": "resources/LOGO/icons_light/add_R_texte.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/add_R_texte.png",
+            "sha256": "dbfb11faaa42a08bd08c2eb4cd733f2837803bc28d69d5d8c32ea454cceea858",
+            "size": 8077
+          },
+          {
+            "path": "resources/LOGO/icons_light/add_text.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/add_text.png",
+            "sha256": "f1f1e1baa0d436e5ce91bd0573c91b426054b80e3c325e17597dade559b63cdf",
+            "size": 18620
+          },
+          {
+            "path": "resources/LOGO/icons_light/ai_message.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/ai_message.png",
+            "sha256": "515112d64b712f4b6c20a314b2bd2bb72ea4cb4e5b26df3a6a4aca4fbfec1759",
+            "size": 33682
+          },
+          {
+            "path": "resources/LOGO/icons_light/ai_setting.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/ai_setting.png",
+            "sha256": "7f0cb506aa1a6c47d7b4badf1f287b0034d2b3594cc73b2367d3137b73192ced",
+            "size": 30005
+          },
+          {
+            "path": "resources/LOGO/icons_light/ai_test.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/ai_test.png",
+            "sha256": "fbdfe22a895342f96a3fa070e116bd89d8d34b6d9c0a11f201cc3a1949c87690",
+            "size": 29787
+          },
+          {
+            "path": "resources/LOGO/icons_light/arrow-down-2.svg",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/arrow-down-2.svg",
+            "sha256": "6753d6ba76ac04631c26410978a89bdf41a493988938449db1052b067f34fe7e",
+            "size": 987
+          },
+          {
+            "path": "resources/LOGO/icons_light/arrow-down.svg",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/arrow-down.svg",
+            "sha256": "2aa077b51068ee87096b1fb68b30578b17f6b9f79ca7e0442d4799c495df27ed",
+            "size": 951
+          },
+          {
+            "path": "resources/LOGO/icons_light/arrow-up-2.svg",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/arrow-up-2.svg",
+            "sha256": "96856a2b6934269c82eb8f161c944c829bccd002704f792b8e21c01b55e919ce",
+            "size": 1637
+          },
+          {
+            "path": "resources/LOGO/icons_light/bot.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/bot.png",
+            "sha256": "f07ee40eee333391a654ff8bc58b213f436d4f23146abe6333fbb2f60dd8ddc0",
+            "size": 18402
+          },
+          {
+            "path": "resources/LOGO/icons_light/bot2_AI_on.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/bot2_AI_on.png",
+            "sha256": "d0bda16755e309cdd4b838fc6a788475f951106f608cd0ffafbc315db2423200",
+            "size": 160592
+          },
+          {
+            "path": "resources/LOGO/icons_light/bot2_of.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/bot2_of.png",
+            "sha256": "df3934283de4d88b24194d8592781d7e44b09caf0fa227dfb39e20fb0255ce68",
+            "size": 122921
+          },
+          {
+            "path": "resources/LOGO/icons_light/bot2_on.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/bot2_on.png",
+            "sha256": "70f0542641454d11f267f9e0618c9408cbffd7687696e2f58c8cad28b74c6a8a",
+            "size": 196722
+          },
+          {
+            "path": "resources/LOGO/icons_light/bot_of - Copie.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/bot_of%20-%20Copie.png",
+            "sha256": "9771569d34d59ab8e472d713f4b8b5905fd9352572d9d704bae0836f30aa0cc1",
+            "size": 166096
+          },
+          {
+            "path": "resources/LOGO/icons_light/bot_of.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/bot_of.png",
+            "sha256": "c9bfab9d38ca3daabbf186705a4c3aa5aa934c26f81a8eb8c274e15662ce16a5",
+            "size": 109227
+          },
+          {
+            "path": "resources/LOGO/icons_light/bot_on - Copie.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/bot_on%20-%20Copie.png",
+            "sha256": "4539720fe939fd2fee894d7835e4719346cd9b21be7395d275b1268dd8e23762",
+            "size": 162244
+          },
+          {
+            "path": "resources/LOGO/icons_light/bot_on.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/bot_on.png",
+            "sha256": "509bca349c7dd58b600b72d84ae798050638c7a20f02e56284c1ff75e3e0ad7c",
+            "size": 114472
+          },
+          {
+            "path": "resources/LOGO/icons_light/botAI_on.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/botAI_on.png",
+            "sha256": "1478c621394d63d121f4d114c8774d9030a96e914d35a34ad1a1401f243a1aab",
+            "size": 170000
+          },
+          {
+            "path": "resources/LOGO/icons_light/calendar.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/calendar.png",
+            "sha256": "ccdeeda70cf6ea112aff75755a135610634d5c29be7a5efc46d66ab3c1df1f7b",
+            "size": 30216
+          },
+          {
+            "path": "resources/LOGO/icons_light/check - Copie.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/check%20-%20Copie.png",
+            "sha256": "688cb6813c767660f29a28a3dec60dd85af85d00a3dc402155fdedf5de01a2cc",
+            "size": 27223
+          },
+          {
+            "path": "resources/LOGO/icons_light/check.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/check.png",
+            "sha256": "709330c97346f7dec09e44eb06508d1eec79f959e355be83ab0552e5aae2fce6",
+            "size": 13478
+          },
+          {
+            "path": "resources/LOGO/icons_light/delay.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/delay.png",
+            "sha256": "6399b8d8da74ffffa3d09000d048d362e0b7899ad581316db3848abfa227de58",
+            "size": 25385
+          },
+          {
+            "path": "resources/LOGO/icons_light/delete.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/delete.png",
+            "sha256": "a1e150c39c4be585eb0080b66b8b049adc8994333105debb8f2612115dc18cbb",
+            "size": 20524
+          },
+          {
+            "path": "resources/LOGO/icons_light/delete_R_texte.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/delete_R_texte.png",
+            "sha256": "057d402187c286663250a5bb184378ac8ac196a21178e7de2e72e7dc3990b58e",
+            "size": 20729
+          },
+          {
+            "path": "resources/LOGO/icons_light/download.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/download.png",
+            "sha256": "3d2cebeba93cf20abbfd2f148d963e22b7b03a9e10d741de79387d7003aeaa56",
+            "size": 14366
+          },
+          {
+            "path": "resources/LOGO/icons_light/edit_R_texte.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/edit_R_texte.png",
+            "sha256": "8a9c074439f315c80e1584925b45007a15f2efd6eb1a903bce17864eec7cbcd0",
+            "size": 11879
+          },
+          {
+            "path": "resources/LOGO/icons_light/exception.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/exception.png",
+            "sha256": "6c095b46129260e384052061e96b95801da58bd61a2b3e848c603b5db27cc2b1",
+            "size": 39348
+          },
+          {
+            "path": "resources/LOGO/icons_light/export_1.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/export_1.png",
+            "sha256": "457d000da373019780695cb713d4432b8d660efae3995899f0af3a2733846840",
+            "size": 12062
+          },
+          {
+            "path": "resources/LOGO/icons_light/export_2.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/export_2.png",
+            "sha256": "343bbe5473323b0769ffe20a3ff239a7380d546e6965672bb99e67f18b53897b",
+            "size": 12486
+          },
+          {
+            "path": "resources/LOGO/icons_light/export_all.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/export_all.png",
+            "sha256": "f1943e3079c5ca5ad68c12aea0a541d1852adc75028989cad1406d0174883468",
+            "size": 18303
+          },
+          {
+            "path": "resources/LOGO/icons_light/eye.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/eye.png",
+            "sha256": "9b20e64d957524a0edc8b1a3927edb0ceca56bd579210218279440827ba1c901",
+            "size": 25512
+          },
+          {
+            "path": "resources/LOGO/icons_light/history.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/history.png",
+            "sha256": "e81aecbfb56eb3b5ad4bf4a012183e3ae85d43c0c798308ef38ed94599c40371",
+            "size": 25421
+          },
+          {
+            "path": "resources/LOGO/icons_light/home - Copie.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/home%20-%20Copie.png",
+            "sha256": "2925fda65b53b67bb16acf170647abdaf951d1e69da94b1a00b1da44488885fb",
+            "size": 12303
+          },
+          {
+            "path": "resources/LOGO/icons_light/home.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/home.png",
+            "sha256": "954dc92da2767fd363be5d9480dbe93c351c72642ad1be8bf98a5756301449ed",
+            "size": 9866
+          },
+          {
+            "path": "resources/LOGO/icons_light/label.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/label.png",
+            "sha256": "5de17911429db8c1a44d407d2322db42333b256cfa526d485179d87907135a45",
+            "size": 27932
+          },
+          {
+            "path": "resources/LOGO/icons_light/label2.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/label2.png",
+            "sha256": "46f9f2fd5e2360d445b12230bb3b3a63d744696f82fc8049b8dcc6f33faf204d",
+            "size": 41532
+          },
+          {
+            "path": "resources/LOGO/icons_light/list.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/list.png",
+            "sha256": "d4e720c5cebe2601ab119224b250d0c0fae23695b892a8b40188107b8fb7c2ad",
+            "size": 19488
+          },
+          {
+            "path": "resources/LOGO/icons_light/media.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/media.png",
+            "sha256": "c76800f60ce29e334b94318cb790394fd976cb1edb6bba58dec36cdf393ffbef",
+            "size": 19414
+          },
+          {
+            "path": "resources/LOGO/icons_light/message1.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/message1.png",
+            "sha256": "0746fdc9e9bb933e448fb16d04176d05af6cd307b0df262f72a198ce0e86fe5a",
+            "size": 11955
+          },
+          {
+            "path": "resources/LOGO/icons_light/message2.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/message2.png",
+            "sha256": "7212af7a89d777ffc6b17fd59b72930a2aae8687e2b033eadfcb5d8393d5e4ae",
+            "size": 13574
+          },
+          {
+            "path": "resources/LOGO/icons_light/messages_report.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/messages_report.png",
+            "sha256": "3da6a2104c9275790a966725f172ffa105242844b7fd53102a6154dcf6bebf6b",
+            "size": 26270
+          },
+          {
+            "path": "resources/LOGO/icons_light/name.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/name.png",
+            "sha256": "b10f7c2db7a8c11c0ce7b4229c11bf7a2ae3f749ab6d46c0b093300abc45d493",
+            "size": 29161
+          },
+          {
+            "path": "resources/LOGO/icons_light/options.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/options.png",
+            "sha256": "b080ac9709c67430e7aeaa4fc00cc4fcde5251f7da36fdf3b989d43783afc960",
+            "size": 21794
+          },
+          {
+            "path": "resources/LOGO/icons_light/other.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/other.png",
+            "sha256": "bc46957cb79334ebdb4f28da9a527b1374077213262c6c76982529948b3e157b",
+            "size": 11786
+          },
+          {
+            "path": "resources/LOGO/icons_light/remote_control - Copie.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/remote_control%20-%20Copie.png",
+            "sha256": "a0d2538636d1fa7ab0e6108331c1206f02e304f18cea6da6d889e796714d9857",
+            "size": 43839
+          },
+          {
+            "path": "resources/LOGO/icons_light/remote_control.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/remote_control.png",
+            "sha256": "3b6c2f7347e5d54603e7a6d69c9c22f3ce211a5b19bbb73cb5acd12c0e27c392",
+            "size": 43839
+          },
+          {
+            "path": "resources/LOGO/icons_light/save.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/save.png",
+            "sha256": "b5f8c3546398c1fa23eb03a0638723cb5db13099a95d68b3ae427278d98eca10",
+            "size": 16843
+          },
+          {
+            "path": "resources/LOGO/icons_light/send.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/send.png",
+            "sha256": "e4430ddca6d1343a5fdd30edf8bcce2fe1b02522484891210dd0176e4507b601",
+            "size": 22779
+          },
+          {
+            "path": "resources/LOGO/icons_light/seting.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/seting.png",
+            "sha256": "c6bebc239c34a590d449603617f7645fad6158b438172101ef3f1c35ffb85704",
+            "size": 15090
+          },
+          {
+            "path": "resources/LOGO/icons_light/setting.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/setting.png",
+            "sha256": "3806d92667586580b4cc61c4fe5d8f63fd7df8890266296ec7282c6dbe7975c5",
+            "size": 28908
+          },
+          {
+            "path": "resources/LOGO/icons_light/setting_light_mode.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/setting_light_mode.png",
+            "sha256": "927fb2a5b0416c94a45a63f3e1a10a98babe031b37933838a50db2a769c49656",
+            "size": 15168
+          },
+          {
+            "path": "resources/LOGO/icons_light/sheets_track.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/sheets_track.png",
+            "sha256": "462af38e0df9186913e198e5f918661728cef0680184b5c5002f0c68548eb1b4",
+            "size": 7781
+          },
+          {
+            "path": "resources/LOGO/icons_light/sheets_track2.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/sheets_track2.png",
+            "sha256": "0a3e891099bed0b520022a7f28d92712af770684eec653ecab6adeb0957f74d4",
+            "size": 22722
+          },
+          {
+            "path": "resources/LOGO/icons_light/sheets_up.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/sheets_up.png",
+            "sha256": "0c1788792e615dc23f5c47843cdaae7e1c367ba594a7a761802d779e554fae78",
+            "size": 11909
+          },
+          {
+            "path": "resources/LOGO/icons_light/startup.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/startup.png",
+            "sha256": "112f40b8b645175ae2a39179eb5718dc76c9b2e4dfc43eaf9e1b730edf470cdc",
+            "size": 26453
+          },
+          {
+            "path": "resources/LOGO/icons_light/texte.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/texte.png",
+            "sha256": "2e9a8edf951ac46a28bdac092ab8b2c1f36168434189a62742affc1429c53cb6",
+            "size": 14716
+          },
+          {
+            "path": "resources/LOGO/icons_light/timer.gif",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/timer.gif",
+            "sha256": "e21a5f90464f268b4b982dfd9b14393ced07eec872d61810580ed3f9ef02ab15",
+            "size": 90707
+          },
+          {
+            "path": "resources/LOGO/icons_light/timer.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/timer.png",
+            "sha256": "2d2a712a819e47f9a01157c74a57986de67b5a080d139b33361b6b3ba6c177d2",
+            "size": 20269
+          },
+          {
+            "path": "resources/LOGO/icons_light/tray.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/tray.png",
+            "sha256": "8220a9f0cc267918bf683bfd0532a879b5a728dcbbbe6eb2104206dba9667297",
+            "size": 22538
+          },
+          {
+            "path": "resources/LOGO/icons_light/update_key.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/update_key.png",
+            "sha256": "d19449a80245e8a1370f5af66f3664d278accb1e52af140c07d0ead1945469bd",
+            "size": 42162
+          },
+          {
+            "path": "resources/LOGO/icons_light/User V4.gif",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/User%20V4.gif",
+            "sha256": "4e6419e2ae34a0e17e608d20c4db0c8341e3a69abd05fee58105ed443fb857c0",
+            "size": 54324
+          },
+          {
+            "path": "resources/LOGO/icons_light/User V4.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/User%20V4.png",
+            "sha256": "933312fd6da537bd7e9fdfe54da777f242eba4841130350cdfcf31d1ecf7c547",
+            "size": 3230
+          },
+          {
+            "path": "resources/LOGO/icons_light/user.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/user.png",
+            "sha256": "f0072a15c7f36b3540a48c4cbe238614f53bcbc0d62161fc769766a00ea072cb",
+            "size": 11368
+          },
+          {
+            "path": "resources/LOGO/icons_light/voice.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/icons_light/voice.png",
+            "sha256": "38d3be68b255527e64c392502fc9ecb1860702be40c5b3e916afafc53a9db415",
+            "size": 19477
+          },
+          {
+            "path": "resources/LOGO/LOGO.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/LOGO.png",
+            "sha256": "0d0671ec9c80689d8d710fb173ce14f585ec32be7eb12228667feddcf41e9bbe",
+            "size": 39804
+          },
+          {
+            "path": "resources/LOGO/LOGO_2.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/LOGO_2.png",
+            "sha256": "b957a113839c7140f00cb234fdf27dc296052abf699b70dca373955975f93e40",
+            "size": 18794
+          },
+          {
+            "path": "resources/LOGO/LOGO_3.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/LOGO_3.png",
+            "sha256": "a4f814ae3bc548540899b105d91d6da9a581fe4fac046cb492a3b32682566cb3",
+            "size": 12425
+          },
+          {
+            "path": "resources/LOGO/LOGO_tray.ico",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/LOGO_tray.ico",
+            "sha256": "6cffc2fef5ad57fac09befbce749608dc4a2e765ddaa74951003bb1f88c30830",
+            "size": 191969
+          },
+          {
+            "path": "resources/LOGO/LOGO_tray.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/LOGO_tray.png",
+            "sha256": "3c0c19a6edfff5a0d8c24585ce5b96bd2ccdbf1ee8ef500487d20c1736b8f95a",
+            "size": 145248
+          },
+          {
+            "path": "resources/LOGO/splash.png",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/LOGO/splash.png",
+            "sha256": "0d0671ec9c80689d8d710fb173ce14f585ec32be7eb12228667feddcf41e9bbe",
+            "size": 39804
+          },
+          {
+            "path": "resources/sequence_preview.html",
+            "url": "https://raw.githubusercontent.com/heytsapp/UPDATE-2.0.0/refs/heads/main/resources/sequence_preview.html",
+            "sha256": "1f7b8de7d9324f38b4ab62e78b1bfd4ffd69fc877f3416f6fac52631ed95f290",
+            "size": 8197
+          }
+        ],
+        "remove": [],
+        "date": "2026-11-08"
+      },
       {
         "version": "0",
         "notes": [],
